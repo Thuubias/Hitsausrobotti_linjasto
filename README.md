@@ -1,5 +1,5 @@
 # Hitsausrobotti_linjasto
-Kouluprojekti Robotiikan kurssilta, jossa tehtävänä oli rakentaa vedenlämmityssäiliöitä valmistava linjasto. Linjasto sisältää: Yhden hitsausrobotin, yhden linjastorobotin, yhden valmista tuotetta liikuttavan robotin, hitsausalustan, linjaston ja valmiille vedenlämmityssäiliölle pöydän. Hitsausrobotti hitsasivat säiliöön tulo- ja poistoputket.
+Kouluprojekti Robotiikan kurssilta, jossa tehtävänä oli rakentaa vedenlämmityssäiliöitä valmistava linjasto. Linjasto sisältää: Yhden hitsausrobotin, yhden linjastorobotin, yhden valmista tuotetta liikuttavan robotin, hitsausalustan, linjaston ja valmiille vedenlämmityssäiliölle pöydän. Hitsausrobotti hitsaa säiliöön tulo- ja poistoputket.
 Ohjelmoin ja suunnittelin tämän linjaston tehtävänannon piirrustusten mukaan Visual Components ohjelmistolla.
 Tässä pari kuvaa valmiista työstä, käytin KUKA:n KR 22 R1610 teollisuusrobotteja työssäni:
 <img width="898" alt="Robotiikka_projekti_kuva1" src="https://github.com/Thuubias/Hitsausrobotti_linjasto/assets/98958963/79cc1358-3fd8-4bdc-939f-51c37fdf50ea">
