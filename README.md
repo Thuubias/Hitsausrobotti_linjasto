@@ -11,6 +11,6 @@ Linjastorobotti saa signaalin valmiista hitsistä hitsausrobotilta ja kääntä�
 <img width="896" alt="Robotiikka_projekti_kuva4" src="https://github.com/Thuubias/Hitsausrobotti_linjasto/assets/98958963/a7f6b546-022f-42f8-b96f-147ba74c8029">
 Linjastorobotti lähettää signaalin jälleen hitsausrobotille ollessaan valmis ja hitsausrobotti aloittaa työnsä.
 <img width="896" alt="Robotiikka_projekti_kuva5" src="https://github.com/Thuubias/Hitsausrobotti_linjasto/assets/98958963/af39e474-f9d3-4050-934b-f9df0a75ed14">
-Hitsausrobotti lähettää signaalin toiselle robotille valmiista hitsaustyöstä, joka lopulta tarttuu valmiiseen vedenlämmitys säiliöön ja siirtää sen pöydälle.
+Hitsausrobotti lähettää signaalin toiselle robotille valmiista hitsaustyöstä, joka lopulta tarttuu valmiiseen vedenlämmityssäiliöön ja siirtää sen pöydälle.
 <img width="895" alt="Robotiikka_projekti_kuva6" src="https://github.com/Thuubias/Hitsausrobotti_linjasto/assets/98958963/8fb2811e-44e0-4b52-a4b0-a958425cf01f">
 <img width="896" alt="Robotiikka_projekti_kuva7" src="https://github.com/Thuubias/Hitsausrobotti_linjasto/assets/98958963/63d4f9ec-772d-4a94-bf04-f04e5accb89d">
